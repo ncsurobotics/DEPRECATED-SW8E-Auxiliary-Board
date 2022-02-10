@@ -31,6 +31,7 @@ int main(void) {
     }
 }
 
+// added comment
 void gradualFill(u_int n, u_char r, u_char g, u_char b){
     int i;
     for (i = 0; i < n; i++){        // n is number of LEDs
